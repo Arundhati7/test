@@ -1,6 +1,6 @@
 test
 do re mi
-be kind
+Esoc rocks
 hi hi hi
 hihihihihi
 doremifasolatido
